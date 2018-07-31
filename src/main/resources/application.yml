@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    name: test
+    password: test
+    url: jdbc:mysql://172.16.11.7:3306/lihaotest1
+server:
+  port: 1024
